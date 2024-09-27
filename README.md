@@ -3,9 +3,11 @@
 ```bash
 $ pnpm install
 ```
+##---------------
 ```bash
 $ yarn install
 ```
+##---------------
 ```bash
 $ npm install
 ```
@@ -15,9 +17,11 @@ $ npm install
 ```bash
 $ pnpm start
 ```
+##---------------
 ```bash
 $ yarn start
 ```
+##---------------
 ```bash
 $ npm start
 ```
