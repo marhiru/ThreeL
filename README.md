@@ -1,9 +1,19 @@
-# Intall Packages
-pnpm install
-npm install
-yarn install
+## Intall Packages
 
-# Start the project
-pnpm start
-npm start
-yarn start
+```bash
+$ pnpm install
+
+$ yarn install
+
+$ npm install
+```
+
+## Running the app
+
+```bash
+$ pnpm start
+
+$ yarn start
+
+$ npm start
+```
