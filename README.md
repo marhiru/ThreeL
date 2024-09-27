@@ -1,13 +1,14 @@
 ## Installation
 
+### PNPM
 ```bash
 $ pnpm install
 ```
-## ---------------
+### YARN
 ```bash
 $ yarn install
 ```
-## ---------------
+### NPM
 ```bash
 $ npm install
 ```
