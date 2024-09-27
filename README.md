@@ -1,4 +1,4 @@
-## Install Packages
+## Installation
 
 ```bash
 $ pnpm install
